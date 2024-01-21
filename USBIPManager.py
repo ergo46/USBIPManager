@@ -1,4 +1,4 @@
-from library import bar, compatibility, config, daemon, ini, lang, log, performance, queue
+ vfrom library import bar, compatibility, config, daemon, ini, lang, log, performance, queue
 from library.modal import LoadDaemon, SelfSearch, SoftwareConfig, QueueManager
 
 from sys import argv, exit
